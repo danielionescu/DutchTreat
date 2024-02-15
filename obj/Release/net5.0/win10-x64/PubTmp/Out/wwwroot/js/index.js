@@ -1,0 +1,3 @@
+﻿function ceva() {
+    alert("smth");
+}

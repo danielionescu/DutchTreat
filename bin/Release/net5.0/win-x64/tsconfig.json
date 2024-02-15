@@ -1,0 +1,8 @@
+{
+  "include": [ "wwwroot/ts/**/*.ts" ],
+  "compileOnSave": true,
+  "compilerOptions": {
+    "module": "None", //sa le builduiasca pe fiecare in parte, nu intr-o singura clasa mare
+    "sourceMap": true //pt debug fisiere ts in loc de cele js
+  }
+}
